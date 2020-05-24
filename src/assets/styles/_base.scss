@@ -1,0 +1,98 @@
+// load bourbon
+@import '_bourbon'; // leading underscore required*
+
+// mobile container fix
+.container {
+  width: 100%;
+}
+
+// load grid
+@import 'flexboxgrid-sass';
+
+// load variables
+@import './variables';
+
+// reset defaults
+html,
+body {
+  @include margin(0);
+  @include padding(0);
+  min-width: 100vw;
+  min-height: 100vh;
+  background-color: $bg-main;
+}
+
+section {
+  @include padding(150px 50px 100px);
+
+  &.large {
+    @include padding(200px 50px);
+  }
+
+  &.small {
+    @include padding(100px 50px);
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Open Sans",
+    Helvetica,
+    Arial,
+    sans-serif;
+  text-transform: uppercase;
+}
+
+h1 {
+  font-size: 42px;
+  font-weight: $extra-bold;
+
+  @media screen and (max-width: 48rem) {
+    font-size: 32px;
+
+    &.sm-small {
+      font-size: 28px;
+    }
+  }
+}
+
+h2 {
+  font-size: 28px;
+  font-weight: $normal;
+
+  @media screen and (max-width: 48rem) {
+
+    font-size: 22px;
+  }
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: $normal;
+
+  @media screen and (max-width: 48rem) {}
+}
+
+#{$all-text-inputs} {
+  border: 1px solid #ccc;
+}
+
+#{$all-text-inputs-active} {
+  border: 1px solid #aaa;
+}
+
+#{$all-text-inputs-focus} {
+  border: 1px solid #1565c0;
+}
+
+#{$all-text-inputs-hover} {
+  border: 1px solid #aaa;
+}
+
+#{$all-text-inputs-invalid} {
+  border: 1px solid #00f;
+}

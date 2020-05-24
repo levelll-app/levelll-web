@@ -1,0 +1,106 @@
+{
+  "cookie": {
+    "button": "Разбрах!",
+    "message": "Този сайт използва бисквитки, тъй като те са важни за работата му. Чрез посещението си, вие приемате използването на бисквитки и общите условия на сайта."
+  },
+  "nav": {
+    "home": "Начало",
+    "about": "За Levelll",
+    "sign-in": "Вход"
+  },
+  "footer": {
+    "levelll": "Levelll",
+    "en": "EN",
+    "bg": "BG",
+    "privacy-policy": "Политика за поверителност",
+    "terms-of-service": "Условия за ползване"
+  },
+  "home": {
+    "meta": {
+      "description": "Някога виждали ли сте система да поеме пълен контрол върху водно съоръжение? Някога виждали ли сте автоматичен контрол на входящия дебит, спрямо качеството на водата или мътността? Някога виждали ли сте задействана аларма или уведомления, поради критични стойности на водата? Всичко изброено по - горе с възможността да бъде контролирано от вашия телефон...без значение къде се намирате вие или вашето съоръжение."
+    },
+    "heading": {
+      "water": "Воден",
+      "monitoring": "Мониторинг",
+      "and-automation": "и Автоматизация",
+      "get-started": "Започнете сега"
+    },
+    "why-levelll": {
+      "why-levelll": "Защо Levelll?",
+      "p1": "Може би си зададохте въпроса - \"Добре, но... защо Levelll?\"",
+      "p2": "В отговора се крият фактите, че Levelll е <b>модерен</b>, <b>с отворен код</b>, <b>пълен с полезни функционалности</b> и най-важното - ние ценим поверителността на нашите клиенти и <b>никога няма да споделим</b> вашата информация с никого.",
+      "p3": "Някога виждали ли сте система да поеме пълен контрол върху водно съоръжение?",
+      "p4": "Някога виждали ли сте автоматичен контрол на входящия дебит, спрямо качеството на водата или мътността?",
+      "p5": "Някога виждали ли сте задействана аларма или уведомления, поради критични стойности на водата?",
+      "p6": "Всичко изброено по-горе с възможността да бъде контролирано от вашия телефон... без значение къде се намирате вие или вашето съоръжение.",
+      "p7": "Звучи невъзможно, но ние го направихме :)",
+      "about-levelll": "За Levelll"
+    },
+    "features": {
+      "infrastructure": "Защитена Инфраструктура",
+      "infrastructure-paragraph": "Levelll използва изцяло облачни услуги, работещи в няколко зони на наличност. Това гарантира 100% непрекъсната работа и изключително бързи реакции от нашата система, независимо кога и къде имате нужда от нея.",
+      "mobile": "Използвайте Levelll на мобилни устройства",
+      "mobile-paragraph": "Levelll е улекотен и това, комбинирано с мобилния дизайн, го прави идеалниат избор за всякакви приложения. Можете да използвате Levelll на всякакво устройство по ваш избор. Нашата инфраструктура ви дава възможността да следите информация в реално време на един допир разстояние. Звучи нереално, нали?",
+      "privacy": "Ние ценим вашата информация",
+      "privacy-paragraph": "Никога не бихме споделили каквито и да било данни за вас, освен ако вие не решите да го направите. Ние вярваме, че всеки трябва да избира как да бъде използвана неговата информация. Можете да създавате и управлявате персонализирани табла, които можете да споделите публично с всякого, по всяко време. Цялата информация в Levelll се съхранява в един от лидерите за облачни услуги, което я прави защитена от каквато и да било външна намеса."
+    },
+    "get-in-touch": {
+      "get-in-touch": "Свържете се с нас",
+      "email": "support&nbsp;[at]&nbsp;levelll.com"
+    }
+  },
+  "about": {
+    "meta": {
+      "description": "Levelll започна развитието си като персонализирано решение за мониторинг на водни резервоари през 2016. В самото начало беше възможно само събирането на информация относно водните нива и показването им пред служителите на съоръжението."
+    },
+    "title": "За",
+    "faded-title": "Levelll",
+    "p1": "Levelll започна развитието си като персонализирано решение за мониторинг на водни резервоари през 2016. В самото начало беше възможно само събирането на информация относно водните нива и показването им пред служителите на съоръжението.",
+    "p2": "През последните няколко години ние развивахме системата с постоянни темпове и доста допълнителни функции бяха интегрирани в нея. Те бяха нужни, за да позволят на Levelll да контролира водни съоръжения през онлайн портал или дори да бъде конфигуриран да управлява напълно автономно по-прости съоръжения.",
+    "p3": "В началото на 2020 нашият екип започна работа върху публично достъпна система, която ще бъде достъпна до всички желаещи водни дружества по света. Планираме да споделим целия код на Levelll до края на 2020, за да може всеки да използва Levelll за некомерсиални цели у дома. "
+  },
+  "privacy-policy": {
+    "meta": {
+      "description": "Политика за поверителност на Levelll"
+    },
+    "title": "Политика",
+    "faded-title": "за поверителност",
+    "p1": "Your privacy is important to us. It is Levelll-2020 Ltd.’s policy to respect your privacy regarding any information we may collect from you across our website, https://levelll.com, and other sites we own and operate.",
+    "p2": "We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.",
+    "p3": "We only retain collected information for as long as necessary to provide you with your requested service. What data we store, we’ll protect within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use or modification.",
+    "p4": "We don’t share any personally identifying information publicly or with third-parties, except when required to by law.",
+    "p5": "Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.",
+    "p6": "You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.",
+    "p7": "Your continued use of our website will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.",
+    "p8": "This policy is effective as of 16 April 2020."
+  },
+  "tos": {
+    "meta": {
+      "description": "Условия за ползване на Levelll"
+    },
+    "title": "Условия",
+    "faded-title": "за ползване",
+    "p1": "<h3>1. Terms</h3>By accessing the website at https://levelll.com, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.",
+    "p2": "<h3>2. Use License</h3>a. Permission is granted to temporarily download one copy of the materials (information or software) on Levelll-2020 Ltd.'s website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:",
+    "p2-a1": "i. modify or copy the materials;",
+    "p2-a2": "ii. use the materials for any commercial purpose, or for any public display (commercial or non-commercial);",
+    "p2-a3": "iii. attempt to decompile or reverse engineer any software contained on Levelll-2020 Ltd.'s website;",
+    "p2-a4": "iv. remove any copyright or other proprietary notations from the materials; or",
+    "p2-a5": "v. transfer the materials to another person or \"mirror\" the materials on any other server.",
+    "p2-b": "b. This license shall automatically terminate if you violate any of these restrictions and may be terminated by Levelll-2020 Ltd. at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.",
+    "p3": "<h3>3. Disclaimer</h3>a. The materials on Levelll-2020 Ltd.'s website are provided on an 'as is' basis. Levelll-2020 Ltd. makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.",
+    "p3-b": "b. Further, Levelll-2020 Ltd. does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.",
+    "p4": "<h3>4. Limitations</h3>In no event shall Levelll-2020 Ltd. or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on Levelll-2020 Ltd.'s website, even if Levelll-2020 Ltd. or a Levelll-2020 Ltd. authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.",
+    "p5": "<h3>5. Accuracy of materials</h3>The materials appearing on Levelll-2020 Ltd.'s website could include technical, typographical, or photographic errors. Levelll-2020 Ltd. does not warrant that any of the materials on its website are accurate, complete or current. Levelll-2020 Ltd. may make changes to the materials contained on its website at any time without notice. However Levelll-2020 Ltd. does not make any commitment to update the materials.",
+    "p6": "<h3>6. Links</h3>Levelll-2020 Ltd. has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by Levelll-2020 Ltd. of the site. Use of any such linked website is at the user's own risk.",
+    "p7": "<h3>7. Modifications</h3>Levelll-2020 Ltd. may revise these terms of service for its website at any time without notice. By using this website you are agreeing to be bound by the then current version of these terms of service.",
+    "p8": "<h3>8. Governing Law</h3>These terms and conditions are governed by and construed in accordance with the laws of Bulgaria and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location."
+  },
+  "sign-in": {
+    "meta": {
+      "description": "Вход в Levelll"
+    },
+    "title": "Вход",
+    "faded-title": ""
+  }
+}

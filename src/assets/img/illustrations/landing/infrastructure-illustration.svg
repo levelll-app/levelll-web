@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="151px" viewBox="0 0 180 151" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>undraw_secure_server_s9u8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="8.86848147e-15%" id="linearGradient-2">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0.00272494414%" id="linearGradient-3">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9999197%" y1="100.01263%" x2="49.9999197%" y2="-0.0167581485%" id="linearGradient-4">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100.003998%" x2="50%" y2="0%" id="linearGradient-5">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="WebDesktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing" transform="translate(-149.000000, -1567.000000)">
+            <g id="features" transform="translate(0.000000, 1365.000000)">
+                <g transform="translate(88.000000, 181.000000)" id="secure-cloud">
+                    <g transform="translate(0.000000, 21.000000)">
+                        <g id="undraw_secure_server_s9u8" transform="translate(61.000000, 0.000000)">
+                            <g id="Group" opacity="0.8" transform="translate(94.909091, 0.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+                                <rect id="Rectangle" x="0" y="0" width="85.0909091" height="96.4865597"></rect>
+                            </g>
+                            <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="95.7272727" y="64.6363636" width="82.6363636" height="29.4545455"></rect>
+                            <rect id="Rectangle" fill="#64FFDA" fill-rule="nonzero" x="103.090909" y="71.1818182" width="3.27272727" height="15.5454545"></rect>
+                            <g id="Group" opacity="0.7" transform="translate(109.636364, 71.181818)" fill="#64FFDA" fill-rule="nonzero">
+                                <rect id="Rectangle" x="0.155935829" y="0.0126044226" width="2.96470588" height="15.3353808"></rect>
+                            </g>
+                            <g id="Group" opacity="0.6" transform="translate(115.363636, 71.181818)" fill="#64FFDA" fill-rule="nonzero">
+                                <rect id="Rectangle" x="0.045" y="0.0126044226" width="3.15" height="15.3353808"></rect>
+                            </g>
+                            <g id="Group" opacity="0.5" transform="translate(121.909091, 71.181818)" fill="#64FFDA" fill-rule="nonzero">
+                                <rect id="Rectangle" x="0.119358289" y="0.0126044226" width="2.96470588" height="15.3353808"></rect>
+                            </g>
+                            <g id="Group" opacity="0.5" transform="translate(128.454545, 71.181818)" fill="#64FFDA" fill-rule="nonzero">
+                                <rect id="Rectangle" x="0.00409090909" y="0.0126044226" width="3.15" height="15.3353808"></rect>
+                            </g>
+                            <g id="Group" opacity="0.4" transform="translate(134.181818, 71.181818)" fill="#64FFDA" fill-rule="nonzero">
+                                <rect id="Rectangle" x="0.0859090909" y="0.0126044226" width="3.15" height="15.3353808"></rect>
+                            </g>
+                            <g id="Group" opacity="0.3" transform="translate(140.727273, 71.181818)" fill="#64FFDA" fill-rule="nonzero">
+                                <rect id="Rectangle" x="0.159786096" y="0.0126044226" width="2.96470588" height="15.3353808"></rect>
+                            </g>
+                            <circle id="Oval" fill="#04CCFC" fill-rule="nonzero" cx="166.5" cy="78.9545455" r="7.77272727"></circle>
+                            <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="95.7272727" y="32.7272727" width="82.6363636" height="29.4545455"></rect>
+                            <rect id="Rectangle" fill="#64FFDA" fill-rule="nonzero" x="103.090909" y="39.2727273" width="3.27272727" height="15.5454545"></rect>
+                            <g id="Group" opacity="0.7" transform="translate(109.636364, 40.090909)" fill="#64FFDA" fill-rule="nonzero">
+                                <rect id="Rectangle" x="0.155935829" y="0.0105036855" width="2.96470588" height="15.3353808"></rect>
+                            </g>
+                            <g id="Group" opacity="0.6" transform="translate(115.363636, 40.090909)" fill="#64FFDA" fill-rule="nonzero">
+                                <rect id="Rectangle" x="0.045" y="0.0105036855" width="3.15" height="15.3353808"></rect>
+                            </g>
+                            <g id="Group" opacity="0.5" transform="translate(121.909091, 40.090909)" fill="#64FFDA" fill-rule="nonzero">
+                                <rect id="Rectangle" x="0.119358289" y="0.0105036855" width="2.96470588" height="15.3353808"></rect>
+                            </g>
+                            <g id="Group" opacity="0.5" transform="translate(128.454545, 40.090909)" fill="#64FFDA" fill-rule="nonzero">
+                                <rect id="Rectangle" x="0.00409090909" y="0.0105036855" width="3.15" height="15.3353808"></rect>
+                            </g>
+                            <g id="Group" opacity="0.4" transform="translate(134.181818, 40.090909)" fill="#64FFDA" fill-rule="nonzero">
+                                <rect id="Rectangle" x="0.0859090909" y="0.0105036855" width="3.15" height="15.3353808"></rect>
+                            </g>
+                            <g id="Group" opacity="0.3" transform="translate(140.727273, 40.090909)" fill="#64FFDA" fill-rule="nonzero">
+                                <rect id="Rectangle" x="0.159786096" y="0.0105036855" width="2.96470588" height="15.3353808"></rect>
+                            </g>
+                            <circle id="Oval" fill="#04CCFC" fill-rule="nonzero" cx="166.5" cy="47.0454545" r="7.77272727"></circle>
+                            <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="95.7272727" y="2.45454545" width="82.6363636" height="29.4545455"></rect>
+                            <rect id="Rectangle" fill="#64FFDA" fill-rule="nonzero" x="103.090909" y="9" width="3.27272727" height="15.5454545"></rect>
+                            <g id="Group" opacity="0.7" transform="translate(109.636364, 9.000000)" fill="#64FFDA" fill-rule="nonzero">
+                                <rect id="Rectangle" x="0.155935829" y="0.0105036855" width="2.96470588" height="15.3353808"></rect>
+                            </g>
+                            <g id="Group" opacity="0.6" transform="translate(115.363636, 9.000000)" fill="#64FFDA" fill-rule="nonzero">
+                                <rect id="Rectangle" x="0.045" y="0.0105036855" width="3.15" height="15.3353808"></rect>
+                            </g>
+                            <g id="Group" opacity="0.5" transform="translate(121.909091, 9.000000)" fill="#64FFDA" fill-rule="nonzero">
+                                <rect id="Rectangle" x="0.119358289" y="0.0105036855" width="2.96470588" height="15.3353808"></rect>
+                            </g>
+                            <g id="Group" opacity="0.5" transform="translate(128.454545, 9.000000)" fill="#64FFDA" fill-rule="nonzero">
+                                <rect id="Rectangle" x="0.00409090909" y="0.0105036855" width="3.15" height="15.3353808"></rect>
+                            </g>
+                            <g id="Group" opacity="0.4" transform="translate(134.181818, 9.000000)" fill="#64FFDA" fill-rule="nonzero">
+                                <rect id="Rectangle" x="0.0859090909" y="0.0105036855" width="3.15" height="15.3353808"></rect>
+                            </g>
+                            <g id="Group" opacity="0.3" transform="translate(140.727273, 9.000000)" fill="#64FFDA" fill-rule="nonzero">
+                                <rect id="Rectangle" x="0.159786096" y="0.0105036855" width="2.96470588" height="15.3353808"></rect>
+                            </g>
+                            <circle id="Oval" fill="url(#linearGradient-2)" fill-rule="nonzero" cx="166.909091" cy="16.3636364" r="8.18181818"></circle>
+                            <circle id="Oval" fill="url(#linearGradient-2)" fill-rule="nonzero" cx="166.909091" cy="48.2727273" r="8.18181818"></circle>
+                            <circle id="Oval" fill="url(#linearGradient-2)" fill-rule="nonzero" cx="166.909091" cy="79.3636364" r="8.18181818"></circle>
+                            <circle id="Oval" fill="#04CCFC" fill-rule="nonzero" cx="166.5" cy="16.7727273" r="7.77272727"></circle>
+                            <g id="Group" opacity="0.8" transform="translate(7.363636, 67.909091)" fill="url(#linearGradient-3)" fill-rule="nonzero">
+                                <path d="M114.364593,76.7774259 L0.0145520541,76.7774259 L0.0145520541,3.38358202 C0.0145520541,2.50781725 0.360607817,1.66792153 0.976591025,1.04866232 C1.59257423,0.429403116 2.42802675,0.081506917 3.29915855,0.081506917 L111.077908,0.081506917 C112.891946,0.081506917 114.362514,1.5598963 114.362514,3.38358202 L114.364593,76.7774259 Z" id="Path"></path>
+                            </g>
+                            <path d="M11.4686178,69.5454545 L116.167746,69.5454545 C117.982995,69.5454545 119.454545,71.0224095 119.454545,72.8443259 L119.454545,144.818182 L8.18181818,144.818182 L8.18181818,72.8443259 C8.18181818,71.0224095 9.65336847,69.5454545 11.4686178,69.5454545 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            <rect id="Rectangle" fill="#F5F5F5" fill-rule="nonzero" x="11.4545455" y="75.2727273" width="104.727273" height="67.9090909"></rect>
+                            <rect id="Rectangle" fill="#E0E0E0" fill-rule="nonzero" opacity="0.8" x="12.2727273" y="78.5454545" width="103.909091" height="61.3636364"></rect>
+                            <rect id="Rectangle" fill="#F5F5F5" fill-rule="nonzero" x="12.2727273" y="75.2727273" width="103.909091" height="3.27272727"></rect>
+                            <circle id="Oval" fill="#FF5252" fill-rule="nonzero" cx="14.7272727" cy="76.0909091" r="1"></circle>
+                            <circle id="Oval" fill="#FFFF00" fill-rule="nonzero" cx="16.3636364" cy="76.0909091" r="1"></circle>
+                            <circle id="Oval" fill="#69F0AE" fill-rule="nonzero" cx="18.8181818" cy="76.0909091" r="1"></circle>
+                            <g id="Group" opacity="0.8" transform="translate(0.000000, 138.272727)" fill="url(#linearGradient-4)" fill-rule="nonzero">
+                                <path d="M124.607155,11.8622951 C118.232312,12.3290611 8.75656107,12.1419523 4.92998969,11.8622951 C-0.0853587741,9.52645306 -9.24971644e-05,0.464754098 -9.24971644e-05,0.464754098 L50.2055326,0.140834575 L50.3741683,2.89918033 L71.867924,2.89918033 L72.7006925,0.464754098 L128.346286,0.464754098 C128.346286,0.464754098 129.451786,8.78002981 124.607155,11.8622951 Z" id="Path"></path>
+                            </g>
+                            <path d="M127.528976,139.090909 L72.9975724,139.090909 C73.4358308,139.591387 73.5409586,140.307112 73.2655469,140.915319 C72.9901352,141.523525 72.3862248,141.909288 71.726158,141.898642 L50.9174104,141.898642 C50.2573436,141.909288 49.6534333,141.523525 49.3780215,140.915319 C49.1026098,140.307112 49.2077376,139.591387 49.645996,139.090909 L0.818181818,139.090909 C0.818181818,139.090909 0.735034927,147.343239 5.68543596,149.469607 C9.46222364,149.724855 117.544939,149.891505 123.837504,149.469607 C128.621435,146.661874 127.528976,139.090909 127.528976,139.090909 Z" id="Path" fill="#F5F5F5" fill-rule="nonzero"></path>
+                            <circle id="Oval" fill="#E0E0E0" fill-rule="nonzero" cx="11.4545455" cy="140.727273" r="1"></circle>
+                            <circle id="Oval" fill="#E0E0E0" fill-rule="nonzero" cx="13.9090909" cy="140.727273" r="1"></circle>
+                            <circle id="Oval" fill="#E0E0E0" fill-rule="nonzero" cx="15.5454545" cy="140.727273" r="1"></circle>
+                            <g id="Group" opacity="0.7" transform="translate(40.090909, 80.181818)" fill="url(#linearGradient-5)" fill-rule="nonzero">
+                                <path d="M20.0557343,0.0771894241 L0.100741259,12.5380659 C0.100741259,12.5380659 0.100741259,38.240058 20.0557343,52.2572401 C40.0107273,38.2379717 40.0107273,12.5380659 40.0107273,12.5380659 L20.0557343,0.0771894241 Z" id="Path"></path>
+                            </g>
+                            <path d="M60.9440502,81.8181818 L41.7272727,93.5418496 C41.7272727,93.5418496 41.7272727,117.721265 60.9545455,130.909091 C80.1818182,117.721265 80.1818182,93.5418496 80.1818182,93.5418496 L60.9440502,81.8181818 Z" id="Path" fill="#04CCFC" fill-rule="nonzero"></path>
+                            <path d="M60.0581635,81.8181818 L59.7272727,82.026106 L59.7272727,130.680374 L60.0581635,130.909091 C79.3636364,117.724616 79.3636364,93.5513457 79.3636364,93.5513457 L60.0581635,81.8181818 Z" id="Path" fill="#000000" fill-rule="nonzero" opacity="0.05"></path>
+                            <path d="M60.1363636,85.0909091 L43.3636364,95.4458464 C43.3636364,95.4458464 43.3636364,116.803683 60.1363636,128.454545 C76.9090909,116.803683 76.9090909,95.4458464 76.9090909,95.4458464 L60.1363636,85.0909091 Z" id="Path" fill="#04CCFC" fill-rule="nonzero"></path>
+                            <path d="M61.3636364,85.0909091 L61.3636364,128.454545 C77.7272727,116.801451 77.7272727,95.4395217 77.7272727,95.4395217 L61.3636364,85.0909091 Z" id="Path" fill="#000000" fill-rule="nonzero" opacity="0.08"></path>
+                            <path d="M49.9090909,63.8181818 L49.9090909,20.4545455 L85.0909091,20.4545455" id="Path" stroke-opacity="0.898410184" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="12"></path>
+                            <path d="M38.4545455,50.7272727 L38.4545455,7.36363636 L73.6363636,7.36363636" id="Path" stroke-opacity="0.898410184" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="12"></path>
+                            <path d="M148.909091,99.8181818 L148.909091,134.181818 L130.090909,134.181818" id="Path" stroke-opacity="0.898410184" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="12"></path>
+                            <path d="M160.363636,107.181818 L160.363636,141.545455 L141.545455,141.545455" id="Path" stroke-opacity="0.898410184" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="12"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

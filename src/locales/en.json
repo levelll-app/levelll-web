@@ -1,0 +1,107 @@
+{
+  "cookie": {
+    "button": "Got It!",
+    "more-info": "More info",
+    "message": "This website uses cookies to ensure you get the best experience on our website."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Levelll",
+    "sign-in": "Sign In"
+  },
+  "footer": {
+    "levelll": "Levelll",
+    "en": "EN",
+    "bg": "BG",
+    "privacy-policy": "Privacy Policy",
+    "terms-of-service": "Terms of Service"
+  },
+  "home": {
+    "meta": {
+      "description": "Have you ever seen a system take full control of a water filtration facility? Have you ever seen incoming water pipes correcting the flow based on water quality or turbidity? Have you ever heard an alarm sounding or notifications being sent when there are critical values? Everything from above with the ability to configure and control everything from your phone… no matter where you are or where your facility is located."
+    },
+    "heading": {
+      "water": "Water",
+      "monitoring": "Monitoring",
+      "and-automation": "& Automation",
+      "get-started": "Get Started"
+    },
+    "why-levelll": {
+      "why-levelll": "Why Levelll?",
+      "p1": "Maybe you questioned yourself - \"Okay, but… why Levelll?\"",
+      "p2": "The short answer is based on the facts that Levelll is <b>modern</b>, <b>open-sourced</b>, <b>full of useful features</b> and most importantly - we value our customers’ privacy and <b>we will never share</b> any data with anyone.",
+      "p3": "Have you ever seen a system take full control of a water filtration facility?",
+      "p4": "Have you ever seen incoming water pipes correcting the flow based on water quality or turbidity?",
+      "p5": "Have you ever heard an alarm sounding or notifications being sent when there are critical values?",
+      "p6": "Everything from above with the ability to configure and control everything from your phone… no matter where you are or where your facility is located.",
+      "p7": "Sounds impossible, but we made it :)",
+      "about-levelll": "About Levelll"
+    },
+    "features": {
+      "infrastructure": "Secure Cloud Infrastructure",
+      "infrastructure-paragraph": "Levelll is fully cloud-based and is running across multiple availability zones. This guarantees you 100% uptime and extremely fast response times from our system whenever and wherever you need it.",
+      "mobile": "Access Levelll From Anywhere",
+      "mobile-paragraph": "Levelll is ultra-light and combined with it’s mobile-friendly design it is the perfect fit for all applications. You can open Levelll on any device you want. Our infrastructure gives you the ability to see real-time data in the palm of your hand. Sounds cool, right?",
+      "privacy": "We Value Your Privacy",
+      "privacy-paragraph": "We will never share any of your data with anyone, unless you choose to do so. We believe that our clients should choose how their data is treated. You can create and manage custom dashboards which you can share with anyone, anytime. Our secure data stores are located in one of the biggest cloud providers, this makes your data’s security rock-solid."
+    },
+    "get-in-touch": {
+      "get-in-touch": "Get In Touch",
+      "email": "support&nbsp;[at]&nbsp;levelll.com"
+    }
+  },
+  "about": {
+    "meta": {
+      "description": "Levelll started out as a custom solution for water level monitoring back in 2016. At the very beginning it was only able to log water levels and show them to water facility employees."
+    },
+    "title": "About",
+    "faded-title": "Levelll",
+    "p1": "Levelll started out as a custom solution for water level monitoring back in 2016. At the very beginning it was only able to log water levels and show them to water facility employees.",
+    "p2": "Throughout the past few years the system evolved quite a lot and our dev team had integrated lots of additional functionalities, needed for water facilities to be controlled from the palm of your hand, or even left running on fully automatic mode for simpler facilities.",
+    "p3": "In early 2020 our team started working on a public service, which will be available for all water facilities worldwide to join. We plan to open-source Levelll by the end of 2020, so anyone can run it on their own hardware for non-commercial use."
+  },
+  "privacy-policy": {
+    "meta": {
+      "description": "Levelll - Privacy Policy"
+    },
+    "title": "Privacy",
+    "faded-title": "Policy",
+    "p1": "Your privacy is important to us. It is Levelll-2020 Ltd.’s policy to respect your privacy regarding any information we may collect from you across our website, https://levelll.com, and other sites we own and operate.",
+    "p2": "We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.",
+    "p3": "We only retain collected information for as long as necessary to provide you with your requested service. What data we store, we’ll protect within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use or modification.",
+    "p4": "We don’t share any personally identifying information publicly or with third-parties, except when required to by law.",
+    "p5": "Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.",
+    "p6": "You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.",
+    "p7": "Your continued use of our website will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.",
+    "p8": "This policy is effective as of 16 April 2020."
+  },
+  "tos": {
+    "meta": {
+      "description": "Levelll - Terms of Service"
+    },
+    "title": "Terms",
+    "faded-title": "of Service",
+    "p1": "<h3>1. Terms</h3>By accessing the website at https://levelll.com, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.",
+    "p2": "<h3>2. Use License</h3>a. Permission is granted to temporarily download one copy of the materials (information or software) on Levelll-2020 Ltd.'s website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:",
+    "p2-a1": "i. modify or copy the materials;",
+    "p2-a2": "ii. use the materials for any commercial purpose, or for any public display (commercial or non-commercial);",
+    "p2-a3": "iii. attempt to decompile or reverse engineer any software contained on Levelll-2020 Ltd.'s website;",
+    "p2-a4": "iv. remove any copyright or other proprietary notations from the materials; or",
+    "p2-a5": "v. transfer the materials to another person or \"mirror\" the materials on any other server.",
+    "p2-b": "b. This license shall automatically terminate if you violate any of these restrictions and may be terminated by Levelll-2020 Ltd. at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.",
+    "p3": "<h3>3. Disclaimer</h3>a. The materials on Levelll-2020 Ltd.'s website are provided on an 'as is' basis. Levelll-2020 Ltd. makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.",
+    "p3-b": "b. Further, Levelll-2020 Ltd. does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.",
+    "p4": "<h3>4. Limitations</h3>In no event shall Levelll-2020 Ltd. or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on Levelll-2020 Ltd.'s website, even if Levelll-2020 Ltd. or a Levelll-2020 Ltd. authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.",
+    "p5": "<h3>5. Accuracy of materials</h3>The materials appearing on Levelll-2020 Ltd.'s website could include technical, typographical, or photographic errors. Levelll-2020 Ltd. does not warrant that any of the materials on its website are accurate, complete or current. Levelll-2020 Ltd. may make changes to the materials contained on its website at any time without notice. However Levelll-2020 Ltd. does not make any commitment to update the materials.",
+    "p6": "<h3>6. Links</h3>Levelll-2020 Ltd. has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by Levelll-2020 Ltd. of the site. Use of any such linked website is at the user's own risk.",
+    "p7": "<h3>7. Modifications</h3>Levelll-2020 Ltd. may revise these terms of service for its website at any time without notice. By using this website you are agreeing to be bound by the then current version of these terms of service.",
+    "p8": "<h3>8. Governing Law</h3>These terms and conditions are governed by and construed in accordance with the laws of Bulgaria and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location."
+  },
+  "sign-in": {
+    "meta": {
+      "description": "Sign into Levelll"
+    },
+    "title": "Sign",
+    "faded-title": "In"
+  }
+}

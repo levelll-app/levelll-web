@@ -1,0 +1,25 @@
+// grid
+$flexboxgrid-grid-columns: 12;
+$flexboxgrid-gutter-width: 1rem;
+$flexboxgrid-outer-margin: 1rem;
+$flexboxgrid-breakpoints: sm 48rem,
+md 64rem,
+lg 80rem;
+
+// colors
+$primary: #04CCFC;
+$dark-primary: #05bbe6;
+$black: #111;
+$white: #fff;
+$faded-white: rgba(255, 255, 255, 0.6);
+
+// backgrounds
+$bg-gradient: linear-gradient(90deg, #00D2FF 0%, #3A7BD5 100%);
+$bg-main: $white;
+
+// typography
+$extra-bold: 800;
+$bold: 700;
+$normal: 600;
+$light: 400;
+$extra-light: 300;
