@@ -17,8 +17,3 @@ services:
       - hostname: ${var.ROOT_HOSTNAME}
         path: /
         port: http
-    # dependencies:
-    #   - backend
-#   - env:
-#       # You can access this variable at runtime in your code.
-#       DATABASE_URL: https://my-database:5432/
