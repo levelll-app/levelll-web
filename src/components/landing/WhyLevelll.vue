@@ -11,9 +11,10 @@
           <img
             src="../../assets/img/illustrations/landing/why-illustration.svg"
             alt="Searching For Reason - Illustration"
-          >
+          />
         </div>
         <div class="col-md-6 content">
+          <p v-html="$t('home.why-levelll.p0')" />
           <p v-html="$t('home.why-levelll.p1')" />
           <p v-html="$t('home.why-levelll.p2')" />
           <p v-html="$t('home.why-levelll.p3')" />
@@ -24,9 +25,7 @@
           <router-link
             :to="`/${$i18n.locale}/about`"
             class="cta"
-          >
-            {{ $t("home.why-levelll.about-levelll") }}
-          </router-link>
+          >{{ $t("home.why-levelll.about-levelll") }}</router-link>
         </div>
       </div>
     </div>

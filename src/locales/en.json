@@ -18,17 +18,18 @@
   },
   "home": {
     "meta": {
-      "description": "Have you ever seen a system take full control of a water filtration facility? Have you ever seen incoming water pipes correcting the flow based on water quality or turbidity? Have you ever heard an alarm sounding or notifications being sent when there are critical values? Everything from above with the ability to configure and control everything from your phone… no matter where you are or where your facility is located."
+      "description": "Levelll is a specialized application for water and sewage monitoring! This is an online app, which monitors: reservoir levels, water quality, turbidity, dissolved chemicals, pressure and other useful water indicators. It is proven to be stable and intelligent, and if necessary, automation can be included, which, for example, will easily control an electric actuator installed on a shut-off valve..."
     },
     "heading": {
-      "water": "Water",
-      "monitoring": "Monitoring",
-      "and-automation": "& Automation",
+      "heading": "Water",
+      "faded-heading": "Monitoring",
+      "sub-heading": "& Automation",
       "get-started": "Get Started"
     },
     "why-levelll": {
       "why-levelll": "Why Levelll?",
-      "p1": "Maybe you questioned yourself - \"Okay, but… why Levelll?\"",
+      "p0": "Maybe you questioned yourself - \"Okay, but… why Levelll?\"",
+      "p1": "Levelll is a specialized application for water and sewage monitoring! This is an online app, which monitors: reservoir levels, water quality, turbidity, dissolved chemicals, pressure and other useful water indicators. It is proven to be stable and intelligent, and if necessary, automation can be included, which, for example, will easily control an electric actuator installed on a shut-off valve...",
       "p2": "The short answer is based on the facts that Levelll is <b>modern</b>, <b>open-sourced</b>, <b>full of useful features</b> and most importantly - we value our customers’ privacy and <b>we will never share</b> any data with anyone.",
       "p3": "Have you ever seen a system take full control of a water filtration facility?",
       "p4": "Have you ever seen incoming water pipes correcting the flow based on water quality or turbidity?",

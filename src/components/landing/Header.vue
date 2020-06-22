@@ -1,27 +1,22 @@
 <template>
-  <section
-    id="header"
-    class="large"
-  >
+  <section id="header" class="large">
     <div class="container">
       <div class="row">
         <div class="col-md-8 content">
           <h1>
-            {{ $t("home.heading.water") }}
-            <span class="faded">{{ $t("home.heading.monitoring") }}</span>
+            {{ $t("home.heading.heading") }}
+            <span
+              class="faded"
+            >{{ $t("home.heading.faded-heading") }}</span>
           </h1>
-          <h2>{{ $t("home.heading.and-automation") }}</h2>
+          <h2>{{ $t("home.heading.sub-heading") }}</h2>
           <router-link
             :to="`/${$i18n.locale}/sign-in`"
             class="cta"
-          >
-            {{ $t("home.heading.get-started") }}
-          </router-link>
+          >{{ $t("home.heading.get-started") }}</router-link>
         </div>
         <div class="illustration">
-          <img
-            src="../../assets/img/illustrations/landing/chart-illustration.svg"
-          >
+          <img src="../../assets/img/illustrations/landing/chart-illustration.svg" />
         </div>
       </div>
     </div>
@@ -30,7 +25,7 @@
 
 <script>
 export default {
-  name: "LandingHeader",
+  name: "LandingHeader"
 };
 </script>
 
