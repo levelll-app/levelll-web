@@ -58,6 +58,14 @@ h1 {
       font-size: 28px;
     }
   }
+
+  @media screen and (max-width: 24rem) {
+    font-size: 26px;
+
+    &.sm-small {
+      font-size: 24px;
+    }
+  }
 }
 
 h2 {
@@ -67,6 +75,11 @@ h2 {
   @media screen and (max-width: 48rem) {
 
     font-size: 22px;
+  }
+
+  @media screen and (max-width: 48rem) {
+
+    font-size: 18px;
   }
 }
 

@@ -5,7 +5,7 @@
       :class="{ dark: darkContent }"
       :style="{
         backgroundColor: `rgba(255, 255, 255, ${navBackgroundOpacity})`,
-        padding: `${navPadding}px 50px`,
+        padding: `${navPadding}px 50px`
       }"
     >
       <div class="container">
@@ -15,12 +15,12 @@
               src="./assets/img/levelll_bw_dark.svg"
               alt="Levelll Logo"
               class="light-logo"
-            >
+            />
             <img
               src="./assets/img/levelll_colored_light.svg"
               alt="Levelll Logo"
               class="dark-logo"
-            >
+            />
           </div>
 
           <div class="col-xs-9 mobile-menu">
@@ -43,13 +43,10 @@
             </router-link>
             <!-- <a href="mailto:support@levelll.com">{{ $t("nav.contact") }}</a> -->
             <span class="separator" />
-            <router-link :to="`/${$i18n.locale}/sign-in`">
-              {{ $t("nav.sign-in") }}
-            </router-link>
-            <img
-              src="./assets/img/levelll_bw_dark.svg"
-              alt="Levelll Logo"
-            >
+            <a :href="`https://dash.levelll.com/${$i18n.locale}/signin`">{{
+              $t("nav.sign-in")
+            }}</a>
+            <img src="./assets/img/levelll_bw_dark.svg" alt="Levelll Logo" />
           </div>
         </div>
       </div>
