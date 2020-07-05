@@ -15,12 +15,12 @@
               src="./assets/img/levelll_bw_dark.svg"
               alt="Levelll Logo"
               class="light-logo"
-            />
+            >
             <img
               src="./assets/img/levelll_colored_light.svg"
               alt="Levelll Logo"
               class="dark-logo"
-            />
+            >
           </div>
 
           <div class="col-xs-9 mobile-menu">
@@ -46,7 +46,10 @@
             <a :href="`https://dash.levelll.com/${$i18n.locale}/signin`">{{
               $t("nav.sign-in")
             }}</a>
-            <img src="./assets/img/levelll_bw_dark.svg" alt="Levelll Logo" />
+            <img
+              src="./assets/img/levelll_bw_dark.svg"
+              alt="Levelll Logo"
+            >
           </div>
         </div>
       </div>

@@ -1,5 +1,8 @@
 <template>
-  <section id="header" class="large">
+  <section
+    id="header"
+    class="large"
+  >
     <div class="container">
       <div class="row">
         <div class="col-md-8 content">
@@ -13,10 +16,12 @@
           <router-link
             :to="`/${$i18n.locale}/sign-in`"
             class="cta"
-          >{{ $t("home.heading.get-started") }}</router-link>
+          >
+            {{ $t("home.heading.get-started") }}
+          </router-link>
         </div>
         <div class="illustration">
-          <img src="../../assets/img/illustrations/landing/chart-illustration.svg" />
+          <img src="../../assets/img/illustrations/landing/chart-illustration.svg">
         </div>
       </div>
     </div>
