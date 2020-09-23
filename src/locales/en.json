@@ -59,7 +59,7 @@
     "faded-title": "Levelll",
     "p1": "Levelll started out as a custom solution for water level monitoring back in 2015. At the very beginning it was only able to log water levels and show them to water facility employees.",
     "p2": "Throughout the past few years the system evolved quite a lot and our dev team had integrated lots of additional functionalities, needed for water facilities to be controlled from the palm of your hand, or even left running on fully automatic mode for simpler facilities.",
-    "p3": "In early 2020 our team started working on a public service, which will be available for all water facilities worldwide to join. We plan to open-source Levelll by the end of 2020, so anyone can run it on their own hardware for non-commercial use."
+    "p3": "In early 2020 our team started working on a public service, which will be available for all water facilities worldwide to join. We plan to open-source Levelll by the end of 2021, so anyone can run it on their own hardware for non-commercial use."
   },
   "privacy-policy": {
     "meta": {
