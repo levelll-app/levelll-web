@@ -30,7 +30,7 @@
     "eslint-plugin-vue": "^6.2.2",
     "flexboxgrid-sass": "^8.0.5",
     "jstz": "^2.1.1",
-    "node-sass": "^4.14.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^8.0.2",
     "vue-cli-plugin-i18n": "~0.6.1",
     "vue-cli-plugin-prerender-spa": "^1.1.6",
